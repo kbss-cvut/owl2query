@@ -5,8 +5,8 @@
     <parent>
         <artifactId>owl2query</artifactId>
         <groupId>cz.cvut.kbss</groupId>
-        <version>0.6.0</version>
-        <relativePath>../owl2query/pom.xml</relativePath>
+        <version>0.6.2</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
 
     <artifactId>owl2query-protege-plugin</artifactId>
